@@ -19,7 +19,7 @@
 <h3>Codewars</h3>
 <p>
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?IlyaBiryulev=dinifarb&theme=gradient"/>
+      <img src="https://github.r2v.ch/codewars?IlyaBiryulev"/>
     </a>
 </p>
 <!--
