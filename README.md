@@ -23,6 +23,7 @@
     </a> 
 </p>
 
+<p>Просто смешная гифка<img src="https://usagif.com/wp-content/uploads/funny-dog-80.gif.webp"/></p>
 <!--
 **IlyaBiryulev/IlyaBiryulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
