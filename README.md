@@ -18,9 +18,7 @@
 
 <h3>Codewars</h3>
 <p>
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev" />
-    </a>
+    <a href="https://www.codewars.com/users/IlyaBiryulev/badges/large"></a>
 </p>
 <!--
 **IlyaBiryulev/IlyaBiryulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
