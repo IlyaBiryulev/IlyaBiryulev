@@ -16,13 +16,11 @@
 <h3>📲Контакты</h3>
 <a href="https://vk.com/stormsi"><img src="https://user-images.githubusercontent.com/113717543/222206691-ae6795b8-8e5a-4bfb-96a5-fe6f0c0d5b47.png" height="40"/></a> <a href="https://t.me/ilya_bir"><img src="https://user-images.githubusercontent.com/113717543/222207872-dff4d319-6d7d-4237-add0-d833da57a554.png" height="40"/></a>  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=birulevila@gmail.com"><img src="https://user-images.githubusercontent.com/113717543/222208728-6eca2d9a-3ccb-49fc-97e3-62ba20a8a3d7.png" height="40"/></a>
 
-<h3>⭐Немного статистики</h3>
+<h3>🟥Codewars</h3>
 <p>
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev"/>
-    </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBiryulev&langs_count=8" />
-</a>
+    </a> 
 </p>
 
 <!--
