@@ -1,6 +1,7 @@
 <h1 align="center">Привет! Меня зовут Илья<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ещё Junior, но скоро Senior Front-end developer😜</h3>
 
+<h3>О себе</h3>
 <ul>
   <li>🐱‍🏍 Стремлюсь писать чистый код</li>
 </ul>
