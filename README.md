@@ -21,7 +21,7 @@
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev"/>
     </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBiryulev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBiryulev&langs_count=8" />
 </a>
 </p>
 
