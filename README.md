@@ -20,11 +20,11 @@
 <p>
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev"/>
-    </a>
-</p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    </a> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBiryulev&layout=compact" />
 </a>
+</p>
+
 <!--
 **IlyaBiryulev/IlyaBiryulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
