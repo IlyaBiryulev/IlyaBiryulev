@@ -22,7 +22,7 @@
       <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev"/>
     </a>
 </p>
-<p>[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaBiryulev&layout=compact)]</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IlyaBiryulev/IlyaBiryulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
