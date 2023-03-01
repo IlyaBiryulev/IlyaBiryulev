@@ -17,7 +17,11 @@
 <a href="https://vk.com/stormsi"><img src="https://user-images.githubusercontent.com/113717543/222206691-ae6795b8-8e5a-4bfb-96a5-fe6f0c0d5b47.png" height="40"/></a> <a href="https://t.me/ilya_bir"><img src="https://user-images.githubusercontent.com/113717543/222207872-dff4d319-6d7d-4237-add0-d833da57a554.png" height="40"/></a>  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=birulevila@gmail.com"><img src="https://user-images.githubusercontent.com/113717543/222208728-6eca2d9a-3ccb-49fc-97e3-62ba20a8a3d7.png" height="40"/></a>
 
 <h3>Codewars</h3>
-![Codewars](https://github.r2v.ch/codewars?user=IlyaBiryulev)
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=IlyaBiryulev" />
+    </a>
+</p>
 <!--
 **IlyaBiryulev/IlyaBiryulev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
