@@ -1,6 +1,5 @@
 <div align="center"><img src="https://media.tenor.com/S8af2k2M-VUAAAAC/hello-its.gif" height="300"/></div>
 <h1 align="center">Привет! Меня зовут Илья<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Ещё Junior, но скоро Senior Front-end developer😜</h3>
 
 <h3>👻О себе</h3>
 <ul>
